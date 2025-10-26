@@ -1,2 +1,0 @@
-# CodeWithoutBarriers
-Paper's repository
